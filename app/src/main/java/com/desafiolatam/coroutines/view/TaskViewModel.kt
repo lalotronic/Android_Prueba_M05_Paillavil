@@ -15,22 +15,6 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel
-/*class TaskViewModel @Inject constructor(
-    private val repository: TaskRepositoryImp
-) : ViewModel() {
-
-    private val _data: MutableStateFlow<List<TaskEntity>> = MutableStateFlow(emptyList())
-    val taskListStateFlow: StateFlow<List<TaskEntity>> = _data.asStateFlow()
-
-    init {
-        viewModelScope.launch {
-            repository.getTasks().collectLatest {
-                _data.value = it
-            }
-        }
-    }
-} */
-
 class TaskViewModel @Inject constructor(
     private val repository: TaskRepositoryImp
 ) : ViewModel() {
@@ -38,32 +22,6 @@ class TaskViewModel @Inject constructor(
     private val _data: MutableStateFlow<List<TaskEntity>> = MutableStateFlow(emptyList())
     val taskListStateFlow: StateFlow<List<TaskEntity>> = _data.asStateFlow()
     private val dispatcherIO : CoroutineDispatcher = Dispatchers.IO
-
-  /*  init {
-        viewModelScope.launch {
-            repository.getTasks().collectLatest {
-                _data.value = it
-
-
-            }
-        }
-
-    }
-    suspend fun addTask(task: TaskEntity) {
-        viewModelScope.launch(dispatcherIO) {
-            repository.addTask(task)
-        }
-    }
-    suspend fun deleteTask(task: TaskEntity) {
-        viewModelScope.launch(dispatcherIO) {
-            repository.deleteTask(task)
-        }
-    }
-
-
-    }
-
-}*/
 
     init {
         viewModelScope.launch {
@@ -98,7 +56,7 @@ class TaskViewModel @Inject constructor(
         }
     }
 
-    // Función para recargar las tareas
+    //Ojo Función para recargar las tareas
     private suspend fun loadTasks() {
         viewModelScope.launch(dispatcherIO) {
             repository.getTasks().collectLatest {

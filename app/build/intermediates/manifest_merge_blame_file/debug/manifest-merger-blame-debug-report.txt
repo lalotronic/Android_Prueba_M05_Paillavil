@@ -6,93 +6,92 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="25"
-8-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml
+8-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml
+9-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:5:5-30:19
+11-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:5:5-30:19
 12        android:name="com.desafiolatam.coroutines.TaskApplication"
-12-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:6:9-40
+12-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:6:9-40
 13        android:allowBackup="true"
-13-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:7:9-35
+13-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:7:9-35
 14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 14-->[androidx.core:core:1.8.0] C:\Users\epail\.gradle\caches\transforms-3\849eb51fab561f754ce6d2f7b2f2f03c\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 15        android:dataExtractionRules="@xml/data_extraction_rules"
-15-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:8:9-65
+15-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:8:9-65
 16        android:debuggable="true"
 17        android:extractNativeLibs="false"
 18        android:fullBackupContent="@xml/backup_rules"
-18-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:9:9-54
+18-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:9:9-54
 19        android:icon="@mipmap/ic_launcher"
-19-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:10:9-43
+19-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:10:9-43
 20        android:label="@string/app_name"
-20-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:11:9-41
+20-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:11:9-41
 21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:12:9-54
+21-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:12:9-54
 22        android:supportsRtl="true"
-22-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:13:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.Coroutines" >
-24-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:14:9-48
-25        <activity
-25-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:16:9-28:20
-26            android:name="com.desafiolatam.coroutines.view.ui.MainActivity"
-26-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:17:13-49
-27            android:exported="true" >
-27-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:18:13-36
-28            <intent-filter>
-28-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:19:13-23:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:20:17-69
-29-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:20:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:22:17-77
-31-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:22:27-74
-32            </intent-filter>
-33
-34            <meta-data
-34-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:25:13-27:36
-35                android:name="android.app.lib_name"
-35-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:26:17-52
-36                android:value="" />
-36-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:27:17-33
-37        </activity>
-38        <activity android:name="com.desafiolatam.coroutines.view.ui.NewTaskActivity" />
-38-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:29:9-60
-38-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\desafio5_final_Paillavil\app\src\main\AndroidManifest.xml:29:19-58
-39
-40        <service
-40-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
-41            android:name="androidx.room.MultiInstanceInvalidationService"
-41-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
-42            android:directBootAware="true"
-42-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
-43            android:exported="false" />
-43-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
-44
-45        <provider
-45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-46            android:name="androidx.startup.InitializationProvider"
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-47            android:authorities="com.desafiolatam.Prueba_final_mod_5.androidx-startup"
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-48            android:exported="false" >
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-49            <meta-data
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-51                android:value="androidx.startup" />
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-52            <meta-data
-52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\epail\.gradle\caches\transforms-3\83c4e1921c975eb44fc4b47c75079c67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\epail\.gradle\caches\transforms-3\83c4e1921c975eb44fc4b47c75079c67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-54                android:value="androidx.startup" />
-54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\epail\.gradle\caches\transforms-3\83c4e1921c975eb44fc4b47c75079c67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-55        </provider>
-56    </application>
-57
-58</manifest>
+22-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:13:9-35
+23        android:theme="@style/Theme.Coroutines" >
+23-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:14:9-48
+24        <activity
+24-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:16:9-28:20
+25            android:name="com.desafiolatam.coroutines.view.ui.MainActivity"
+25-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:17:13-49
+26            android:exported="true" >
+26-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:18:13-36
+27            <intent-filter>
+27-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:19:13-23:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:20:17-69
+28-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:22:17-77
+30-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:22:27-74
+31            </intent-filter>
+32
+33            <meta-data
+33-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:25:13-27:36
+34                android:name="android.app.lib_name"
+34-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:26:17-52
+35                android:value="" />
+35-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:27:17-33
+36        </activity>
+37        <activity android:name="com.desafiolatam.coroutines.view.ui.NewTaskActivity" />
+37-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:29:9-60
+37-->C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\src\main\AndroidManifest.xml:29:19-58
+38
+39        <service
+39-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+40            android:name="androidx.room.MultiInstanceInvalidationService"
+40-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+41            android:directBootAware="true"
+41-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+42            android:exported="false" />
+42-->[androidx.room:room-runtime:2.4.3] C:\Users\epail\.gradle\caches\transforms-3\4fbae1b1b8f7bb77b60c132855b7fb04\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+46            android:authorities="com.desafiolatam.Prueba_final_mod_5.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\epail\.gradle\caches\transforms-3\d5af15b25f417a8a79f1cbc269b05dde\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\epail\.gradle\caches\transforms-3\83c4e1921c975eb44fc4b47c75079c67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\epail\.gradle\caches\transforms-3\83c4e1921c975eb44fc4b47c75079c67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\epail\.gradle\caches\transforms-3\83c4e1921c975eb44fc4b47c75079c67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+54        </provider>
+55    </application>
+56
+57</manifest>

@@ -17,53 +17,6 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
 @AndroidEntryPoint
-/*class NewTaskActivity : AppCompatActivity() {
-
-    lateinit var binding: ActivityNewTaskBinding
-    private val viewModel: TaskViewModel by viewModels()
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        binding = ActivityNewTaskBinding.inflate(layoutInflater)
-        setContentView(binding.root)
-    }
-}
-*/
-/*
- class NewTaskActivity : AppCompatActivity() {
-
-    lateinit var binding: ActivityNewTaskBinding
-    private val viewModel: TaskViewModel by viewModels()
-
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        binding = ActivityNewTaskBinding.inflate(layoutInflater)
-        setContentView(binding.root)
-
-        binding.save.setOnClickListener{
-            agregarTarea()
-        }
-
-    }
-
-    private fun agregarTarea() {
-        var task : TaskEntity = TaskEntity(0,"title","cualquiercosa")
-        //llamando a couroutine
-        lifecycleScope.launch(Dispatchers.IO) {
-        viewModel.addTask(task)
-    }
-        Toast.makeText(this, "Agregando tarea", Toast.LENGTH_LONG).show()
-        startActivity(Intent(this,MainActivity::class.java))
-    }
-
-
-}
-
- */
-
-
-
 class NewTaskActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityNewTaskBinding

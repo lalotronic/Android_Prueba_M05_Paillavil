@@ -4,15 +4,15 @@
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
-    <color name="separator">#5E5E5E</color>
-    <color name="teal_200">#FF03DAC5</color>
+    <color name="separator">#FF5722</color>
+    <color name="teal_200">#FF5722</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Tareas</string>
     <string name="newTask">Crear Tarea</string>
     <string name="newTaskDescription">Descripcion</string>
     <string name="newTaskTitle">Titulo</string>
-    <string name="saveButton">Guardar Tarea</string>
+    <string name="saveButton">Guardar</string>
     <style name="Theme.Coroutines" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

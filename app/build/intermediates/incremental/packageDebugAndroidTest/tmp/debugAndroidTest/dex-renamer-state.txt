@@ -1,0 +1,13 @@
+#Fri Nov 08 22:53:43 CLST 2024
+base.0=C\:\\Users\\epail\\Desktop\\ANDROID_G17\\M5\\corutinas\\Prueba_M05_Paillavil\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\epail\\Desktop\\ANDROID_G17\\M5\\corutinas\\Prueba_M05_Paillavil\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\epail\\Desktop\\ANDROID_G17\\M5\\corutinas\\Prueba_M05_Paillavil\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex
+base.3=C\:\\Users\\epail\\Desktop\\ANDROID_G17\\M5\\corutinas\\Prueba_M05_Paillavil\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\6\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

@@ -1,0 +1,7 @@
+com.desafiolatam.coroutines.test.app-core-1.5.0-0 C:\Users\epail\.gradle\caches\transforms-3\5d86d9a1754c8c9b5564f24366095224\transformed\core-1.5.0\res
+com.desafiolatam.coroutines.test.app-annotation-experimental-1.1.0-1 C:\Users\epail\.gradle\caches\transforms-3\e4309aa56ee39ae7ea8a73ba0537790c\transformed\annotation-experimental-1.1.0\res
+com.desafiolatam.coroutines.test.app-androidTest-2 C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\build\generated\res\resValues\androidTest\debug
+com.desafiolatam.coroutines.test.app-androidTest-3 C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\build\generated\res\rs\androidTest\debug
+com.desafiolatam.coroutines.test.app-mergeDebugAndroidTestResources-4 C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.desafiolatam.coroutines.test.app-mergeDebugAndroidTestResources-5 C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.desafiolatam.coroutines.test.app-merged_res-6 C:\Users\epail\Desktop\ANDROID_G17\M5\corutinas\Prueba_M05_Paillavil\app\build\intermediates\merged_res\debugAndroidTest

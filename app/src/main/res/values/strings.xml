@@ -3,5 +3,5 @@
     <string name="newTask">Crear Tarea</string>
     <string name="newTaskTitle">Titulo</string>
     <string name="newTaskDescription">Descripcion</string>
-    <string name="saveButton">Guardar Tarea</string>
+    <string name="saveButton">Guardar</string>
 </resources>

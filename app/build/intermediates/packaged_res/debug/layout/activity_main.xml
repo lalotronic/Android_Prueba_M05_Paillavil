@@ -20,7 +20,7 @@
         android:id="@+id/cl_add_task"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="#F6E54E"
+        android:backgroundTint="#250BDF"
         android:focusable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
