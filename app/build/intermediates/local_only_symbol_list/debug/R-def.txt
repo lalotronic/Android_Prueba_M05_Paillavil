@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color separator
+color teal_200
+color teal_700
+color white
+drawable baseline_add_circle_outline_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id cb_is_completed
+id cl_add_task
+id cl_item
+id description
+id newTask
+id rv_task
+id save
+id separator
+id title
+id tv_task_description
+id tv_task_title
+layout activity_main
+layout activity_new_task
+layout item_task
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string newTask
+string newTaskDescription
+string newTaskTitle
+string saveButton
+style Theme.Coroutines
+xml backup_rules
+xml data_extraction_rules

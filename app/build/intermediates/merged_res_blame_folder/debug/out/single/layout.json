@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.desafiolatam.coroutines.app-mergeDebugResources-38:/layout/activity_new_task.xml",
+        "source": "com.desafiolatam.coroutines.app-main-41:/layout/activity_new_task.xml"
+    },
+    {
+        "merged": "com.desafiolatam.coroutines.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.desafiolatam.coroutines.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.desafiolatam.coroutines.app-mergeDebugResources-38:/layout/item_task.xml",
+        "source": "com.desafiolatam.coroutines.app-main-41:/layout/item_task.xml"
+    }
+]
