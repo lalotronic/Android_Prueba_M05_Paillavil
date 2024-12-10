@@ -1,5 +1,5 @@
 __App Task__<br><br>
-Requerimientos: <br><br>
+  Requerimientos: <br>
 1. Completar UI de NewTaskActivity para poder agregar nuevas Tareas.<br>
 
 2. Agregar función en el ViewModel que permite agregar Tareas.<br>
