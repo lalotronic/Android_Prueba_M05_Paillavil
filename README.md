@@ -11,3 +11,5 @@ __App Task__<br><br>
 5. Al abrir la app, las tareas que han sido terminadas, se deben mostrar con checkbox
 clickeado y el título de la tarea tachado.<br>
 (2 Puntos)
+
+<img src="https://github.com/lalotronic/Android_Prueba_M05_Paillavil/blob/master/tareas.png" alt="pl" width="70%" />
